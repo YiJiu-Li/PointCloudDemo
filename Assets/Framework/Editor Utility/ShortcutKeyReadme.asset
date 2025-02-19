@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcf7219bab7fe46a1ad266029b2fee19, type: 3}
+  m_Name: ShortcutKeyReadme
+  m_EditorClassIdentifier: 
+  icon: {fileID: 0}
+  title: "<size=30><b><color=orange>\u5FEB\u6377\u952E\u5168\u653B\u7565</color></b></size>\n<color=gray>\uFF08\u5FEB\u901F\u638C\u63E1\u9AD8\u6548\u64CD\u4F5C\uFF0C\u52A9\u4F60\u4E8B\u534A\u529F\u500D\uFF09</color>"
+  sections:
+  - heading: "<size=18><b>\u64AD\u653E/\u6682\u505C</b></size>"
+    text: "<b>\u63CF\u8FF0:</b> \u5F00\u59CB\u6216\u6682\u505C\u6E38\u620F\u8FD0\u884C\n<b>\u5FEB\u6377\u952E:</b>
+      <color=green>Ctrl + P (Windows) / Command + P (Mac)</color>"
+    linkText: 
+    url: 
+  - heading: "<size=18><b>\u573A\u666F\u89C6\u56FE\u5BFC\u822A</b></size>"
+    text: "<b>\u63CF\u8FF0:</b> \u5728\u573A\u666F\u89C6\u56FE\u4E2D\u79FB\u52A8\u89C6\u89D2\n<b>\u5FEB\u6377\u952E:</b>
+      <color=green>\u53F3\u952E + WASD</color>"
+    linkText: 
+    url: 
+  - heading: "<size=18><b>\u6700\u5927\u5316/\u6700\u5C0F\u5316\u6E38\u620F\u89C6\u56FE</b></size>"
+    text: "<b>\u63CF\u8FF0:</b> \u5C06\u6E38\u620F\u89C6\u56FE\u6700\u5927\u5316\u6216\u6700\u5C0F\u5316\n<b>\u5FEB\u6377\u952E:</b>
+      <color=green>Shift + \u7A7A\u683C</color>"
+    linkText: 
+    url: 
+  - heading: "<size=18><b>\u4FDD\u5B58\u573A\u666F</b></size>"
+    text: "<b>\u63CF\u8FF0:</b> \u4FDD\u5B58\u5F53\u524D\u573A\u666F\n<b>\u5FEB\u6377\u952E:</b>
+      <color=green>Ctrl + S (Windows) / Command + S (Mac)</color>"
+    linkText: 
+    url: 
+  - heading: "<size=18><b>\u64A4\u9500</b></size>"
+    text: "<b>\u63CF\u8FF0:</b> \u64A4\u9500\u4E0A\u4E00\u6B65\u64CD\u4F5C\n<b>\u5FEB\u6377\u952E:</b>
+      <color=green>Ctrl + Z (Windows) / Command + Z (Mac)</color>"
+    linkText: 
+    url: 
+  - heading: "<size=18><b>\u91CD\u505A</b></size>"
+    text: "<b>\u63CF\u8FF0:</b> \u91CD\u505A\u4E0A\u4E00\u6B65\u64A4\u9500\u7684\u64CD\u4F5C\n<b>\u5FEB\u6377\u952E:</b>
+      <color=green>Ctrl + Shift + Z (Windows) / Command + Shift + Z (Mac)</color>"
+    linkText: 
+    url: 
+  - heading: "<size=18><b>\u5207\u63622D/3D\u89C6\u56FE</b></size>"
+    text: "<b>\u63CF\u8FF0:</b> \u5207\u6362\u573A\u666F\u89C6\u56FE\u76842D\u62163D\u6A21\u5F0F\n<b>\u5FEB\u6377\u952E:</b>
+      <color=green>Ctrl + 2 (Windows) / Command + 2 (Mac)</color>"
+    linkText: 
+    url: 
+  - heading: "<size=18><b>\u79FB\u52A8\u7269\u4F53</b></size>"
+    text: "<b>\u63CF\u8FF0:</b> \u5728\u573A\u666F\u4E2D\u79FB\u52A8\u9009\u4E2D\u7684\u7269\u4F53\n<b>\u5FEB\u6377\u952E:</b>
+      <color=green>W \u952E</color>"
+    linkText: 
+    url: 
+  - heading: "<size=18><b>\u65CB\u8F6C\u7269\u4F53</b></size>"
+    text: "<b>\u63CF\u8FF0:</b> \u5728\u573A\u666F\u4E2D\u65CB\u8F6C\u9009\u4E2D\u7684\u7269\u4F53\n<b>\u5FEB\u6377\u952E:</b>
+      <color=green>E \u952E</color>"
+    linkText: 
+    url: 
+  - heading: "<size=18><b>\u7F29\u653E\u7269\u4F53</b></size>"
+    text: "<b>\u63CF\u8FF0:</b> \u5728\u573A\u666F\u4E2D\u7F29\u653E\u9009\u4E2D\u7684\u7269\u4F53\n<b>\u5FEB\u6377\u952E:</b>
+      <color=green>R \u952E</color>"
+    linkText: 
+    url: 
+  - heading: "<size=18><b>\u9009\u62E9\u7269\u4F53</b></size>"
+    text: "<b>\u63CF\u8FF0:</b> \u9009\u62E9\u5F53\u524D\u7269\u4F53\u6216\u5207\u6362\u5230\u7269\u4F53\u9009\u62E9\u6A21\u5F0F\n<b>\u5FEB\u6377\u952E:</b>
+      <color=green>Q \u952E</color>"
+    linkText: 
+    url: 
+  - heading: "<size=18><b>\u590D\u5236\u7269\u4F53</b></size>"
+    text: "<b>\u63CF\u8FF0:</b> \u590D\u5236\u9009\u4E2D\u7684\u7269\u4F53\n<b>\u5FEB\u6377\u952E:</b>
+      <color=green>Ctrl + D (Windows) / Command + D (Mac)</color>"
+    linkText: 
+    url: 
+  - heading: "<size=18><b>\u5220\u9664\u7269\u4F53</b></size>"
+    text: "<b>\u63CF\u8FF0:</b> \u5220\u9664\u5F53\u524D\u9009\u4E2D\u7684\u7269\u4F53\n<b>\u5FEB\u6377\u952E:</b>
+      <color=green>Delete \u952E</color>"
+    linkText: 
+    url: 
+  - heading: "<size=18><b>\u663E\u793A/\u9690\u85CF Gizmos</b></size>"
+    text: "<b>\u63CF\u8FF0:</b> \u663E\u793A\u6216\u9690\u85CF\u573A\u666F\u4E2D\u7684
+      Gizmos\n<b>\u5FEB\u6377\u952E:</b> <color=green>Ctrl + Shift + G (Windows)
+      / Command + Shift + G (Mac)</color>"
+    linkText: 
+    url: 
+  - heading: "<size=18><b>\u805A\u7126\u5F53\u524D\u7269\u4F53</b></size>"
+    text: "<b>\u63CF\u8FF0:</b> \u5C06\u573A\u666F\u89C6\u56FE\u805A\u7126\u5230\u5F53\u524D\u9009\u4E2D\u7684\u7269\u4F53\n<b>\u5FEB\u6377\u952E:</b>
+      <color=green>F \u952E</color>"
+    linkText: 
+    url: 
+  - heading: "<size=18><b>\u663E\u793A/\u9690\u85CF\u5F53\u524D\u7269\u4F53</b></size>"
+    text: "<b>\u63CF\u8FF0:</b> \u5207\u6362\u663E\u793A\u6216\u9690\u85CF\u5F53\u524D\u9009\u4E2D\u7684\u7269\u4F53\n<b>\u5FEB\u6377\u952E:</b>
+      <color=green>H \u952E</color>"
+    linkText: 
+    url: 
+  - heading: "<size=18><b>\u5207\u6362\u573A\u666F\u89C6\u56FE\u548C\u6E38\u620F\u89C6\u56FE</b></size>"
+    text: "<b>\u63CF\u8FF0:</b> \u5728\u573A\u666F\u89C6\u56FE\u548C\u6E38\u620F\u89C6\u56FE\u4E4B\u95F4\u5207\u6362\n<b>\u5FEB\u6377\u952E:</b>
+      <color=green>Ctrl + ` (Windows) / Command + ` (Mac)</color>"
+    linkText: 
+    url: 
+  - heading: "<size=18><b>\u5207\u6362\u6E38\u620F\u89C6\u56FE</b></size>"
+    text: "<b>\u63CF\u8FF0:</b> \u5728\u6E38\u620F\u89C6\u56FE\u548C\u573A\u666F\u89C6\u56FE\u4E4B\u95F4\u5207\u6362\n<b>\u5FEB\u6377\u952E:</b>
+      <color=green>Shift + Space</color>"
+    linkText: 
+    url: 
+  - heading: "<size=18><b>\u8DF3\u8FC7\u4E00\u5E27</b></size>"
+    text: "<b>\u63CF\u8FF0:</b> \u5728\u8FD0\u884C\u6A21\u5F0F\u4E0B\u8DF3\u8FC7\u4E00\u5E27\n<b>\u5FEB\u6377\u952E:</b>
+      <color=green>Ctrl + Alt + F (Windows) / Command + Option + F (Mac)</color>"
+    linkText: 
+    url: 
+  - heading: "<size=18><b>\u6253\u5F00\u63A7\u5236\u53F0</b></size>"
+    text: "<b>\u63CF\u8FF0:</b> \u5FEB\u901F\u6253\u5F00Unity\u63A7\u5236\u53F0\u7A97\u53E3\n<b>\u5FEB\u6377\u952E:</b>
+      <color=green>Ctrl + Shift + C (Windows) / Command + Shift + C (Mac)</color>"
+    linkText: 
+    url: 
+  - heading: "<size=18><b>\u6253\u5F00\u504F\u597D\u8BBE\u7F6E</b></size>"
+    text: "<b>\u63CF\u8FF0:</b> \u6253\u5F00Unity\u7684\u8BBE\u7F6E\u7A97\u53E3\n<b>\u5FEB\u6377\u952E:</b>
+      <color=green>Ctrl + , (Windows) / Command + , (Mac)</color>"
+    linkText: 
+    url: 
+  - heading: "<size=18><b>\u5168\u5C4F\u622A\u56FE</b></size>"
+    text: "<b>\u63CF\u8FF0:</b> \u5FEB\u901F\u622A\u53D6\u5F53\u524D\u5C4F\u5E55\u753B\u9762\n<b>\u5FEB\u6377\u952E:</b>
+      <color=green>Ctrl + Shift + S (Windows) / Command + Shift + S (Mac)</color>"
+    linkText: 
+    url: 
+  - heading: "<size=18><b>\u91CD\u8F7D\u573A\u666F</b></size>"
+    text: "<b>\u63CF\u8FF0:</b> \u5FEB\u901F\u91CD\u65B0\u52A0\u8F7D\u5F53\u524D\u573A\u666F\uFF0C\u9002\u5408\u8C03\u8BD5\n<b>\u5FEB\u6377\u952E:</b>
+      <color=green>Ctrl + R (Windows) / Command + R (Mac)</color>"
+    linkText: 
+    url: 
+  - heading: "<size=18><b>\u8C03\u8BD5\u6A21\u5F0F\u5207\u6362</b></size>"
+    text: "<b>\u63CF\u8FF0:</b> \u5F00\u542F\u6216\u5173\u95ED\u8C03\u8BD5\u6A21\u5F0F\uFF0C\u663E\u793A\u8C03\u8BD5\u4FE1\u606F\n<b>\u5FEB\u6377\u952E:</b>
+      <color=green>Ctrl + D (Windows) / Command + D (Mac)</color>"
+    linkText: 
+    url: 
+  loadedLayout: 0
